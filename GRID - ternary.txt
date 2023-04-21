@@ -1,45 +1,37 @@
 list of implemented grid :
 
-QAPF Volcanic :
-Le Bas, M. J.; Streckeisen, A. L. (1991). "The IUGS systematics of igneous rocks". Journal of the Geological Society. 148 (5): 825–833. Bibcode:1991JGSoc.148..825L. CiteSeerX 10.1.1.692.4446. doi:10.1144/gsjgs.148.5.0825. S2CID 28548230.
 
-QAP Plutonic :
-Streckeisen, Albert (July 1974). "Classification and nomenclature of plutonic rocks recommendations of the IUGS subcommission on the systematics of Igneous Rocks". Geologische Rundschau. 63 (2): 773–786. Bibcode:1974GeoRu..63..773S. doi:10.1007/bf01820841. S2CID 130569261.
-
-QAPF Plutonic :
-Streckeisen, Albert (July 1974). "Classification and nomenclature of plutonic rocks recommendations of the IUGS subcommission on the systematics of Igneous Rocks". Geologische Rundschau. 63 (2): 773–786. Bibcode:1974GeoRu..63..773S. doi:10.1007/bf01820841. S2CID 130569261.
-
+QAPF Volcanic
+QAP Plutonic
+QAPF Plutonic
 Gabbroic - 1
 Gabbroic - 2
 Gabbroic - 3
 Ultramafique - 1
 Ultramafique - 3
-
-Th-Hf/3-Ta (Wood, 1980) :
-Wood, David A. "The application of a Th Hf Ta diagram to problems of tectonomagmatic classification and to establishing the nature of crustal contamination of basaltic lavas of the British Tertiary Volcanic Province."Earth and planetary science letters 50.1 (1980): 11-30.
-
-La/10-Y/15-Nb/8 (Cabani, 1989) :
-Cabanis, B. "Le diagramme La/10-Y/15-Nb/8: un outil pour la discrimination des séries volcaniques et la mise en évidence des processus de mélange et/ou de contamination crustale." CR Acad. Sci. Ser. II 309 (1989): 2023-2029.
-
-Nb-Y-Se (Eby, 1992) :
-Eby, G. Nelson. "Chemical subdivision of the A-type granitoids: petrogenetic and tectonic implications." Geology 20.7 (1992): 641-644.
-
-Irvine & Baragar (1971) :
-Irvine, TNj, and WRAf Baragar. "A guide to the chemical classification of the common volcanic rocks." Canadian journal of earth sciences 8.5 (1971): 523-548.
-
+Th-Hf/3-Ta (Wood, 1980)
+La/10-Y/15-Nb/8 (Cabani, 1989)
+Nb-Y-Se (Eby, 1992)
+Irvine & Baragar (1971)
 Feldspar Ab_An_Or
+Nb- bZr-bY (Meschede, 1986)
+Morimoto (1988)
+MnO-TiO2-P2O5 (Mullen, 1983)
+Ti/100-Zr-Y*3 (Pearce & Cann, 1973)
+Ti/100-Zr/2-Sr (Pearce & Cann, 1973)
 
-Nb- bZr-bY (Meschede, 1986):
+
+list ref :
+
+Le Bas, M. J.; Streckeisen, A. L. (1991). "The IUGS systematics of igneous rocks". Journal of the Geological Society. 148 (5): 825–833. Bibcode:1991JGSoc.148..825L. CiteSeerX 10.1.1.692.4446. doi:10.1144/gsjgs.148.5.0825. S2CID 28548230.
+Streckeisen, Albert (July 1974). "Classification and nomenclature of plutonic rocks recommendations of the IUGS subcommission on the systematics of Igneous Rocks". Geologische Rundschau. 63 (2): 773–786. Bibcode:1974GeoRu..63..773S. doi:10.1007/bf01820841. S2CID 130569261.
+Streckeisen, Albert (July 1974). "Classification and nomenclature of plutonic rocks recommendations of the IUGS subcommission on the systematics of Igneous Rocks". Geologische Rundschau. 63 (2): 773–786. Bibcode:1974GeoRu..63..773S. doi:10.1007/bf01820841. S2CID 130569261.
+Wood, David A. "The application of a Th Hf Ta diagram to problems of tectonomagmatic classification and to establishing the nature of crustal contamination of basaltic lavas of the British Tertiary Volcanic Province."Earth and planetary science letters 50.1 (1980): 11-30.
+Cabanis, B. "Le diagramme La/10-Y/15-Nb/8: un outil pour la discrimination des séries volcaniques et la mise en évidence des processus de mélange et/ou de contamination crustale." CR Acad. Sci. Ser. II 309 (1989): 2023-2029.
+Eby, G. Nelson. "Chemical subdivision of the A-type granitoids: petrogenetic and tectonic implications." Geology 20.7 (1992): 641-644.
+Irvine, TNj, and WRAf Baragar. "A guide to the chemical classification of the common volcanic rocks." Canadian journal of earth sciences 8.5 (1971): 523-548.
 Meschede, Martin. "A method of discriminating between different types of mid-ocean ridge basalts and continental tholeiites with the Nb 1bZr 1bY diagram." Chemical geology 56.3 (1986): 207-218.
-
-Morimoto (1988) :
 Morimoto, N. "Nomenclature of pyroxenes." Mineralogy and Petrology 39.1 (1988): 55-76.
-
-MnO-TiO2-P2O5 (Mullen, 1983) :
 Mullen, Ellen D. "MnO/TiO 2/P 2 O 5: a minor element discriminant for basaltic rocks of oceanic environments and its implications for petrogenesis." Earth and Planetary Science Letters 62.1 (1983): 53-62.
-
-Ti/100-Zr-Y*3 (Pearce & Cann, 1973) :
 Pearce, Julian A., and J. R. Cann. "Tectonic setting of basic volcanic rocks determined using trace element analyses." Earth and planetary science letters 19.2 (1973): 290-300.
-
-Ti/100-Zr/2-Sr (Pearce & Cann, 1973) :
 Pearce, Julian A., and J. R. Cann. "Tectonic setting of basic volcanic rocks determined using trace element analyses." Earth and planetary science letters 19.2 (1973): 290-300.
