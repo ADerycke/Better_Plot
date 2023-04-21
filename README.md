@@ -1,5 +1,7 @@
 ## General introduction
 
+This file is simply made for accelerate significantly the Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...). The file allows to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid files).
+
 It's a "work in progress project" so maybe you gonna encounter some trubble and error, so don't hesitated to reported me any problem.
 There is no restriction to use and distribute the "Series Plotter" files, as long as you refer this GitHub. 
 
@@ -37,6 +39,10 @@ You can find several videos in the helping folder that gonna introduce you to th
 ## graphic XY :
 
 ![graph XY](https://user-images.githubusercontent.com/130437433/233654680-7dec2505-8e34-4ba6-90ac-d4c969450cd1.png)
+
+**note :** for binary diagram, multiple automatic grid are already ready to add to graph
+![image](https://user-images.githubusercontent.com/130437433/233656030-1236a5e2-c85f-40e5-a94c-f834610e12a8.png)
+
 
 ## graphic XYZ (ternary diagram) :
 
