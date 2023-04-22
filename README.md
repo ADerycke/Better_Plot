@@ -47,6 +47,7 @@ You can find several videos in the helping folder that gonna introduce you to th
 ## graphic XYZ (ternary diagram) :
 
 ![graph XYZ](https://user-images.githubusercontent.com/130437433/233654854-ad3199e7-f194-4f03-9329-8e0e1341f9b2.png)
+![graph XYZ (bis)](https://user-images.githubusercontent.com/130437433/233799016-01b8f8f8-f5e9-4137-879a-6b409bcc31da.png)
 
 **note :** for ternary diagram, multiple automatic grid are already ready to add to graph
 
