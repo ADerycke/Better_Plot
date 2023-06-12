@@ -57,6 +57,11 @@ You can find several videos in the helping folder that gonna introduce you to th
 
 ![graph XY - stacked ](https://user-images.githubusercontent.com/130437433/233655423-5dc175fc-9fe8-4177-9faa-4711021abeee.png)
 
-## graphic Y (spectra) :
+## graphic Y (spectra/spider diagram) :
 
 ![graph Y](https://user-images.githubusercontent.com/130437433/233655533-995ee4f8-3b7d-4268-9f38-8be0b044d1d1.png)
+
+**note :** for spider diagram, an automatic normalisation is possible (msg pop-up at the selection).
+This normalisation gonna be applied/remove to your data in fonction of what you want.
+The available normalisation can be found and selected on the "Normalisation" sheet that apprear after it selection.
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f1bc2a27-678e-45de-a50b-678474d599d0)
