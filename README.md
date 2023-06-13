@@ -19,6 +19,8 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
   For the MacOS user, Microsoft removed several developpement facilities from Mac Excel, so i'm not working on a proper version by now, sorry...
   
   ![image](https://user-images.githubusercontent.com/130437433/233647168-3e9b37f5-10d8-4098-9e24-d7951c5c5f8e.png)
+
+## graphic Y (spectra/spider diagram) :
   
 ## How to use the file 
 You just have to download the file, openning it and allow the macro execution.
