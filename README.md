@@ -19,8 +19,6 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
   - MacOS (Monterey) : tested and don't work
   
   For the MacOS user, Microsoft removed several developpement facilities from Mac Excel, so i'm not working on a proper version by now, sorry...
-  
-https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
 
 ## How to use the file 
 You just have to download the file, openning it and allow the macro execution.
@@ -34,7 +32,8 @@ You can find several videos in the helping folder that gonna introduce you to th
   - select the wanted element to plot in the "Graphic list" sheet
   - select the wanted kind of graph
   - click on "Plot Graphic" button
-
+  
+https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
 
 # Graphic type :
 
