@@ -1,3 +1,5 @@
+  ![image](https://user-images.githubusercontent.com/130437433/233647168-3e9b37f5-10d8-4098-9e24-d7951c5c5f8e.png)
+
 ## General introduction
 
 This file is simply made for accelerate significantly the Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...). The file allows to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid files).
@@ -18,8 +20,8 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
   
   For the MacOS user, Microsoft removed several developpement facilities from Mac Excel, so i'm not working on a proper version by now, sorry...
   
-  ![image](https://user-images.githubusercontent.com/130437433/233647168-3e9b37f5-10d8-4098-9e24-d7951c5c5f8e.png)
-  
+https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
+
 ## How to use the file 
 You just have to download the file, openning it and allow the macro execution.
 
