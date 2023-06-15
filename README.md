@@ -23,7 +23,7 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
 ## How to use the file 
 You just have to download the file, openning it and allow the macro execution.
 
-You can find several videos in the helping folder that gonna introduce you to the file and show you quickly how to use it. You can find associate data example in the folder to easly test the files and chat is show in videos.
+You can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. You can find associate data example in the folder to easly test the files and reproduce what its show in videos.
 
 **Step by Step simple use :**
   - open the file
