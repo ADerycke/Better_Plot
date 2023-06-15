@@ -1,3 +1,3 @@
 # test 1
 
-![first video.](/Help 1 - introduction and import data.mp4)
+[test] (/Series-Plotter/Helping video/Help 1 - introduction and import data.mp4)
