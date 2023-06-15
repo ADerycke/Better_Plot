@@ -33,6 +33,8 @@ You can find several videos in the helping folder that gonna introduce you to th
   - select the wanted kind of graph
   - click on "Plot Graphic" button
   
+*for more option, let your mouse on any button and a screentips gonna appear*
+
 https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
 
 # Graphic type :
