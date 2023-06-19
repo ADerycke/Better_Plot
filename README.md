@@ -69,6 +69,12 @@ This normalisation gonna be applied/remove to your data in fonction of what you 
 The available normalisation can be found and selected on the "Normalisation" sheet that apprear after it selection.
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f1bc2a27-678e-45de-a50b-678474d599d0)
 
-## Normal law (basic distribution) :
+## Normal law and KDE (basic distribution) :
 
 ![graph Normal law](https://github.com/ADerycke/Series-Plotter/assets/130437433/97ad0c89-154d-4c71-9103-68ade5a1e215)
+
+## Histogram (automatic generation) :
+
+![X - Histogram](https://github.com/ADerycke/Series-Plotter/assets/130437433/e660c782-9aeb-4ce7-b2be-4eb6e6be83f6)
+
+
