@@ -73,9 +73,9 @@ The available normalisation can be found and selected on the "Normalisation" she
 
 ![graph Normal law](https://github.com/ADerycke/Series-Plotter/assets/130437433/97ad0c89-154d-4c71-9103-68ade5a1e215)
 
-## Histogram (automatic generation) :
+## X - Histogram (automatic generation) :
 
 ![X - Histogram](https://github.com/ADerycke/Series-Plotter/assets/130437433/e660c782-9aeb-4ce7-b2be-4eb6e6be83f6)
 
-**note :** when you select this, you enter the wanted range (here 6 to 8) and the wanted intervalle (here 1) and excel gonna automatically calculate the distribution in your dataset
+**note :** when you select this, you enter the wanted range (here 6 to 18) and the wanted intervalle (here 1) and excel gonna automatically calculate the distribution in your dataset
 
