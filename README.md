@@ -20,6 +20,10 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
   
   For the MacOS user, Microsoft removed several developpement facilities from Mac Excel, so i'm not working on a proper version by now, sorry...
 
+**Conceptor : Alexis Derycke** 
+  - [Reseach Gate](https://www.researchgate.net/profile/Alexis-Derycke)
+
+
 ## How to use the file 
 You just have to download the file, openning it and allow the macro execution.
 
