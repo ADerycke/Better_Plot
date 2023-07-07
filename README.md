@@ -1,4 +1,4 @@
-  ![image](https://user-images.githubusercontent.com/130437433/233647168-3e9b37f5-10d8-4098-9e24-d7951c5c5f8e.png)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b424b0f9-6329-48d9-bb85-59c1af6edd63)
 
 ## General introduction
 
