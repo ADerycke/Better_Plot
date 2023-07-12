@@ -50,6 +50,12 @@ https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a
 **note :** for binary diagram, multiple automatic grid are already ready to add to graph
 ![image](https://user-images.githubusercontent.com/130437433/233656030-1236a5e2-c85f-40e5-a94c-f834610e12a8.png)
 
+## graphic XYZ (Z as color) :
+
+![Zcolor - 1](https://github.com/ADerycke/Series-Plotter/assets/130437433/e610d7d9-df17-44d7-8f63-23b37830a7f5)
+
+**note :** the min and max value determine automatically from the dataset. You can select third color and indicate it's value. You can also select an automatic round of the min an max value.
+![Zcolor](https://github.com/ADerycke/Series-Plotter/assets/130437433/f04832a0-ecdb-4d51-8944-dd2c03fe736f)
 
 ## graphic XYZ (ternary diagram) :
 
