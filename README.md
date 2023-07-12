@@ -54,7 +54,7 @@ https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a
 
 ![Zcolor - 1](https://github.com/ADerycke/Series-Plotter/assets/130437433/e610d7d9-df17-44d7-8f63-23b37830a7f5)
 
-**note :** the min and max value determine automatically from the dataset. You can select third color and indicate it's value. You can also select an automatic round of the min an max value.
+**note :** the min and max value are determine automatically from the dataset. You can select a third color and indicate it's value. You can also select an automatic round of the min an max value.
 ![Zcolor](https://github.com/ADerycke/Series-Plotter/assets/130437433/f04832a0-ecdb-4d51-8944-dd2c03fe736f)
 
 ## graphic XYZ (ternary diagram) :
