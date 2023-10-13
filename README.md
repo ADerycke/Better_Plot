@@ -92,3 +92,39 @@ The available normalisation can be found and selected on the "Normalisation" she
 
 **note :** when you select this, you enter the wanted range (here 6 to 18) and the wanted intervalle (here 1) and excel gonna automatically calculate the distribution in your dataset
 
+
+# How to selec the X-Y-Z axes in the "Graphics list" :
+
+## graphic XY :
+Just enter X and Y axes classicaly...
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/886f5d18-8c44-4e45-ae9d-afa8800e0d94)
+
+## graphic XYZ (Z as color) :
+the Z axe is read at the same position a X axe
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b77def31-8547-4183-8472-4f9240847829)
+
+## graphic XYZ (ternary diagram) :
+the 3 pole of the ternary diagramme is read only on the Y axe (add a third one to get a double ternary diagram)
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/8aea9da8-be10-4dc4-aa75-7b892bd0f987)
+
+## graphic XY - stacked :
+you can use same or differente X axes for the time
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/e87bc40f-29a3-4be0-b348-8c5842243cb1)
+
+## graphic Y (spectra/spider diagram) :
+use only the Y axe to enter the data to plot (data in the same row will be plotted together)
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/a319a9e3-47b7-438c-997b-8b320f0488f7)
+
+## Normal law and KDE (basic distribution) :
+no need of the "Graphics list"
+
+## X - Histogram (automatic generation) :
+use only the X axe to determine the data to plot
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f21c0779-f18b-4f8e-89cf-2969ae9236b9)
+
