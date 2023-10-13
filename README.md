@@ -50,6 +50,8 @@ https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a
 **note :** for binary diagram, multiple automatic grid are already ready to add to graph
 ![image](https://user-images.githubusercontent.com/130437433/233656030-1236a5e2-c85f-40e5-a94c-f834610e12a8.png)
 
+![graph XY - grid](https://github.com/ADerycke/Series-Plotter/assets/130437433/9b0c2ee8-5b1b-4162-a395-3155466ece9f)
+
 ## graphic XYZ (Z as color) :
 
 ![Zcolor - 1](https://github.com/ADerycke/Series-Plotter/assets/130437433/e610d7d9-df17-44d7-8f63-23b37830a7f5)
@@ -65,6 +67,7 @@ https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a
 **note :** for ternary diagram, multiple automatic grid are already ready to add to graph
 
 ![image](https://user-images.githubusercontent.com/130437433/233655226-8d13ca9e-ea7e-4495-881e-ff361bf8c55b.png)
+
 
 ## graphic XY - stacked :
 
