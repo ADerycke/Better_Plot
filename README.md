@@ -1,6 +1,6 @@
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b424b0f9-6329-48d9-bb85-59c1af6edd63)
 
-## General introduction
+# General introduction
 
 This file is simply made for accelerate significantly the Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...). The file allows to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid files).
 
