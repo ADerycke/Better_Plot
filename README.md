@@ -1,24 +1,27 @@
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b424b0f9-6329-48d9-bb85-59c1af6edd63)
 
-# General introduction
+# Series-Plotter : General introduction
 
-This file is simply made for accelerate significantly the Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...). The file allows to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid files).
+This file ***Series-plotter(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
+The file also has tools for geosciences like :
+  - allowing to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid file).
+  - allowing to automatically normalise geochemical data, with a list of already implemented geochemical normalisation (cf. normalisation file).
 
-It's a "work in progress project" so maybe you gonna encounter some trubble and error, so don't hesitated to reported me any problem.
+It's never perfect so maybe you gonna encounter some troubles and errors, so don't hesitate to report me any problem.
 There is no restriction to use and distribute the "Series Plotter" files, as long as you refer this GitHub. 
 
 *Excel version :*
-  - should work on any version greeter than Excel 2016
+  - should work on any version earlier than Excel 2016
   - never tested on version older than Excel 2016
-  - some very specifiques utility may not work on the restrained version of Excel (as students version or application)
+  - some utilities/tools may not work on the restrained version of Excel (as students version or application)
 
 *Systems :*
   - Windows 10 (32bit) : not tested but should work
-  - Windows 10 (64bi) : tested and work
+  - Windows 10 (64bit) : tested and work
   - Windows 11 (64bit) : not tested but should work
   - MacOS (Monterey) : tested and don't work
   
-  For the MacOS user, Microsoft removed several developpement facilities from Mac Excel, so i'm not working on a proper version by now, sorry...
+  For the MacOS user, Microsoft removed several development facilities from Mac Excel, so i'm not working on a proper version by now, sorry...
 
 **Conceptor : Alexis Derycke** 
   - [Reseach Gate](https://www.researchgate.net/profile/Alexis-Derycke)
@@ -32,43 +35,43 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
 
 *XY , XYZ (Z as color), ternary diagram, vertical stacked XY, spider diagram, normalisation, grids,...*
 
-**- [How to selec the X-Y-Z axes in the "Graphics list"](#part_4)**
+**- [How to select the X-Y-Z axes in the "Graphics list"](#part_4)**
 
 
 # How to use the file <a id="part_1"></a> 
-You just have to download the file, openning it and allow the macro execution.
+You just have to download the file, opening it and allow the macro execution.
 
-You can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. You can find associate data example in the folder to easly test the files and reproduce what its show in videos.
+You can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. You can find associate data example in the folder to easily test the files and reproduce what its show in videos.
 
 **Step by Step simple use :**
   - open the file
   - add some data (you can click on the "template" to see how to input data)
   - click on the "Get column" button
-  - select the wanted element to plot in the "Graphic list" sheet
-  - select the wanted kind of graph
+  - select wanted element to plot in the "Graphic list" sheet
+  - select wanted kind of graph
   - click on "Plot Graphic" button
   
-*for more option, let your mouse on any button and a screentips gonna appear*
+*for more options, let your mouse on any button and a screen tips gonna appear*
 
 https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
 
 # How to set-up the layout (color, shape,...) : <a id="part_2"></a> 
 
-All graphs/plots are full Excel graphs/plots (event more complexe one as stacked or ternary plot), so you can edit/copy/use them like any other Excel graphs/plots.
+All graphs/plots are full Excel graphs/plots (event more complex one as stacked or ternary plot), so you can edit/copy/use them like any other Excel graphs/plots.
 
-Additionnally, to this manual editing, you can modify several parameters for all graphs/plots automatically using the ribbon or the "Layout" sheets.
+Additionally, to this manual editing, you can modify several parameters for all graphs/plots automatically using the ribbon or the "Layout" sheets.
 
 ## Ribbon options :
 
-This part of the ribbon allow you to change one serie layout at the same time for all the graphs ("Set series color"), or retriver the layout from one graph ("Get series layout").
+This part of the ribbon allow you to change one series layout at the same time for all the graphs ("Set series color"), or retriever the layout of one graph ("Get series layout").
 
-The second one will store the layout on the sheets "Layout" for the next time you gonna generate plot.
+The second one will store the layout of the sheets "Layout" for the next time you gonna generate plot.
 
-The three next button change to one situation to another (plot point or line, smooth line...). "Axes auto" is for anchore the axes at 0.
+The next three button change to one situation to another (plot point or line, smooth line...). "Axes auto" is for anchor axes at 0.
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/31d3911c-8068-4176-bbef-51996f77ba3a)
 
-The second part of the options is for ON/OFF layout like add/removing the legend, the vertical principal grid...
+The second part of the options is for ON/OFF layout like adding/removing the legend, the principal vertical grid...
 Each time for all graphs/plots.
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/2420d5f6-f9e9-4c6d-8f88-aabf10b29f34)
@@ -77,14 +80,14 @@ Each time for all graphs/plots.
 
 It's not mandatory to use this sheets, it's only if you want to setup custom layout.
 
-You can right clik on cells of the "Color" column and a colors selection window gonna appear, after the selection the cell gonna take the color you select.
+You can right click on cells of the "Color" column and a colors selection window gonna appear, after the selection the cell gonna take the color you select.
 
-You can copy and past the color obtain to all cells, it gonna work. If you remove the value inside the cell, then the color go back to "nul", meaning automatic for excel.
+You can copy and past the color obtains to all cells, it gonna work. If you remove the value inside the cell, then the color goes back to "nul", meaning automatic to excel.
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/277658b7-6458-4106-8b56-4ff51611f52a)
 
 
-If you select multiple cells, then it gonna automatically generate a color gradiant : 
+If you select multiple cells, then it gonna automatically generate a color gradient : 
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/a5df3ba4-0fd5-4a5e-a9ee-46f76744accd)
 
@@ -104,7 +107,7 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 ![Zcolor - 1](https://github.com/ADerycke/Series-Plotter/assets/130437433/e610d7d9-df17-44d7-8f63-23b37830a7f5)
 
-**note :** the min and max value are determine automatically from the dataset. You can select a third color and indicate it's value. You can also select an automatic round of the min an max value.
+**note :** min and max value are determined automatically from the dataset. You can select a third color and indicate its value. You can also select an automatic round of the min and max value.
 ![Zcolor](https://github.com/ADerycke/Series-Plotter/assets/130437433/f04832a0-ecdb-4d51-8944-dd2c03fe736f)
 
 ## graphic XYZ (ternary diagram) :
@@ -138,28 +141,28 @@ The available normalisation can be found and selected on the "Normalisation" she
 
 ![X - Histogram](https://github.com/ADerycke/Series-Plotter/assets/130437433/e660c782-9aeb-4ce7-b2be-4eb6e6be83f6)
 
-**note :** when you select this, you enter the wanted range (here 6 to 18) and the wanted intervalle (here 1) and excel gonna automatically calculate the distribution in your dataset
+**note :** when you select this, you enter the wanted range (here 6 to 18) and the wanted interval (here 1) and excel gonna automatically calculate the distribution in your dataset
 
 
-# How to selec the X-Y-Z axes in the "Graphics list" : <a id="part_4"></a> 
+# How to select the X-Y-Z axes in the "Graphics list" : <a id="part_4"></a> 
 
 ## graphic XY :
-Just enter X and Y axes classicaly...
+Just enter X and Y axes ...
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/886f5d18-8c44-4e45-ae9d-afa8800e0d94)
 
-## graphic XYZ (Z as color) :
-the Z axe is read at the same position a X axe
+## graphic XYZ (Z as color) : the Z axe is read at the same position an X axe
+classical
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b77def31-8547-4183-8472-4f9240847829)
 
 ## graphic XYZ (ternary diagram) :
-the 3 pole of the ternary diagramme is read only on the Y axe (add a third one to get a double ternary diagram)
+the 3 pole of the ternary diagram is read only on the Y axe (add a third one to get a double ternary diagram)
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/8aea9da8-be10-4dc4-aa75-7b892bd0f987)
 
 ## graphic XY - stacked :
-you can use same or differente X axes for the time
+you can use same or different X axes for the time
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/e87bc40f-29a3-4be0-b348-8c5842243cb1)
 
