@@ -23,6 +23,8 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
 **Conceptor : Alexis Derycke** 
   - [Reseach Gate](https://www.researchgate.net/profile/Alexis-Derycke)
 
+Sommaire :
+en markdown: lien : [coucou](#test)
 
 ## How to use the file 
 You just have to download the file, openning it and allow the macro execution.
@@ -123,7 +125,7 @@ use only the Y axe to enter the data to plot (data in the same row will be plott
 ## Normal law and KDE (basic distribution) :
 no need of the "Graphics list"
 
-## X - Histogram (automatic generation) :
+## X - Histogram (automatic generation) : <a id="test"></a>
 use only the X axe to determine the data to plot
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f21c0779-f18b-4f8e-89cf-2969ae9236b9)
