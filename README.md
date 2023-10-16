@@ -23,10 +23,16 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
 **Conceptor : Alexis Derycke** 
   - [Reseach Gate](https://www.researchgate.net/profile/Alexis-Derycke)
 
-Sommaire :
-en markdown: lien : [coucou](#test)
+# Summary :
+**- [How to use the file](#part_1)**
 
-## How to use the file 
+**- [How to set-up the layout (color, shape,...)](#part_2)**
+
+**- [Graphic type](#part_3)**
+
+**- [How to selec the X-Y-Z axes in the "Graphics list"](#part_4)**
+
+# How to use the file <a id="part_1"></a> 
 You just have to download the file, openning it and allow the macro execution.
 
 You can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. You can find associate data example in the folder to easly test the files and reproduce what its show in videos.
@@ -43,7 +49,39 @@ You can find several videos (~2min) in the helping folder that gonna introduce y
 
 https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
 
-# Graphic type :
+# How to set-up the layout (color, shape,...) : <a id="part_2"></a> 
+
+All graphs/plots are complete Excel graphs/plots (event more complexe one as stacked or ternary plot), so you can edit/copy/use them like any other Excel graphs/plots. Additionnaly to this manual editing, you can modify several parameters for all graphs/plots automatically using the ribbon or the "Layout" sheets.
+
+## Ribbon options :
+
+This part of the ribbon allow you to change one serie layout at the same time for all the graphs ("Set series color"), or retriver the layout from one graph ("Get series layout").
+The second one will store the layout on the sheets "Layout" for the next time you gonna generate plot.
+The three next button change to one situation to another (plot point or line, smooth line...). "Axes auto" is for anchore the axes at 0.
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/31d3911c-8068-4176-bbef-51996f77ba3a)
+
+The second part of the options is for ON/OFF layout like add/removing the legend, the vertical principal grid...
+Each time for all graphs/plots.
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/2420d5f6-f9e9-4c6d-8f88-aabf10b29f34)
+
+## Sheets "Layout" options :
+
+It's not necessary to use this sheets, it's only if you want to setup custom layout.
+
+You can right clik on cells of the "Color" column and a colors selection window gonna appear, after the selection the cell gonna take the color you select.
+You can copy and past the color obtain to all cells, it gonna work. If you remove the value inside the cell, then the color go back to "nul", meaning automatic for excel.
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/277658b7-6458-4106-8b56-4ff51611f52a)
+
+
+If you select multiple cells, then it gonna automatically generate a color gradiant : 
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/a5df3ba4-0fd5-4a5e-a9ee-46f76744accd)
+
+
+# Graphic type : <a id="part_3"></a> 
 
 ## graphic XY :
 
@@ -95,7 +133,7 @@ The available normalisation can be found and selected on the "Normalisation" she
 **note :** when you select this, you enter the wanted range (here 6 to 18) and the wanted intervalle (here 1) and excel gonna automatically calculate the distribution in your dataset
 
 
-# How to selec the X-Y-Z axes in the "Graphics list" :
+# How to selec the X-Y-Z axes in the "Graphics list" : <a id="part_4"></a> 
 
 ## graphic XY :
 Just enter X and Y axes classicaly...
@@ -125,7 +163,7 @@ use only the Y axe to enter the data to plot (data in the same row will be plott
 ## Normal law and KDE (basic distribution) :
 no need of the "Graphics list"
 
-## X - Histogram (automatic generation) : <a id="test"></a>
+## X - Histogram (automatic generation) :
 use only the X axe to determine the data to plot
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f21c0779-f18b-4f8e-89cf-2969ae9236b9)
