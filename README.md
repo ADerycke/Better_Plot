@@ -30,7 +30,10 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
 
 **- [Graphic type](#part_3)**
 
+*XY , XYZ (Z as color), ternary diagram, vertical stacked XY, spider diagram, normalisation, grids,...*
+
 **- [How to selec the X-Y-Z axes in the "Graphics list"](#part_4)**
+
 
 # How to use the file <a id="part_1"></a> 
 You just have to download the file, openning it and allow the macro execution.
@@ -51,12 +54,16 @@ https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a
 
 # How to set-up the layout (color, shape,...) : <a id="part_2"></a> 
 
-All graphs/plots are complete Excel graphs/plots (event more complexe one as stacked or ternary plot), so you can edit/copy/use them like any other Excel graphs/plots. Additionnaly to this manual editing, you can modify several parameters for all graphs/plots automatically using the ribbon or the "Layout" sheets.
+All graphs/plots are full Excel graphs/plots (event more complexe one as stacked or ternary plot), so you can edit/copy/use them like any other Excel graphs/plots.
+
+Additionnally, to this manual editing, you can modify several parameters for all graphs/plots automatically using the ribbon or the "Layout" sheets.
 
 ## Ribbon options :
 
 This part of the ribbon allow you to change one serie layout at the same time for all the graphs ("Set series color"), or retriver the layout from one graph ("Get series layout").
+
 The second one will store the layout on the sheets "Layout" for the next time you gonna generate plot.
+
 The three next button change to one situation to another (plot point or line, smooth line...). "Axes auto" is for anchore the axes at 0.
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/31d3911c-8068-4176-bbef-51996f77ba3a)
@@ -68,9 +75,10 @@ Each time for all graphs/plots.
 
 ## Sheets "Layout" options :
 
-It's not necessary to use this sheets, it's only if you want to setup custom layout.
+It's not mandatory to use this sheets, it's only if you want to setup custom layout.
 
 You can right clik on cells of the "Color" column and a colors selection window gonna appear, after the selection the cell gonna take the color you select.
+
 You can copy and past the color obtain to all cells, it gonna work. If you remove the value inside the cell, then the color go back to "nul", meaning automatic for excel.
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/277658b7-6458-4106-8b56-4ff51611f52a)
