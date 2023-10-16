@@ -2,7 +2,7 @@
 
 # Series-Plotter : General introduction
 
-This file ***Series-plotter(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
+This file ***Series plotter(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
 The file also has tools for geosciences like :
   - allowing to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid file).
   - allowing to automatically normalise geochemical data, with a list of already implemented geochemical normalisation (cf. normalisation file).
