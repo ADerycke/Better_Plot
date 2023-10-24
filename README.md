@@ -153,13 +153,13 @@ Just enter X and Y axes ...
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/886f5d18-8c44-4e45-ae9d-afa8800e0d94)
 
-## graphic XYZ (Z as color) : the Z axe is read at the same position an X axe
-classical
+## graphic XYZ (Z as color) : 
+the Z axe is read in the area as the X axe
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b77def31-8547-4183-8472-4f9240847829)
 
 ## graphic XYZ (ternary diagram) :
-the 3 pole of the ternary diagram is read only on the Y axe (add a third one to get a double ternary diagram)
+the 3 pole of the ternary diagram is read only on the Y axe (add a fourth one to get a double ternary diagram)
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/8aea9da8-be10-4dc4-aa75-7b892bd0f987)
 
@@ -174,7 +174,7 @@ use only the Y axe to enter the data to plot (data in the same row will be plott
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/a319a9e3-47b7-438c-997b-8b320f0488f7)
 
 ## Normal law and KDE (basic distribution) :
-no need of the "Graphics list"
+no need of the "Graphics list", just select the data you want to analyse and clik on the proper button
 
 ## X - Histogram (automatic generation) :
 use only the X axe to determine the data to plot
