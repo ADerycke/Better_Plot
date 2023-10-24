@@ -31,25 +31,27 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
 
 **- [How to set-up the layout (color, shape,...)](#part_2)**
 
-**- [Graphic type](#part_3)**
+**- [Graphic type](#part_3)** : *XY , XYZ (Z as color), ternary diagram, vertical stacked XY, spider diagram, normalisation, grids,...*
 
-*XY , XYZ (Z as color), ternary diagram, vertical stacked XY, spider diagram, normalisation, grids,...*
-
-**- [How to select the X-Y-Z axes in the "Graphics list"](#part_4)**
+**- [How to select the X-Y-Z axes in the "Graphics list" sheet](#part_4)**
 
 
 # How to use the file <a id="part_1"></a> 
-You just have to download the file, opening it and allow the macro execution.
+You just have to download the file, opening it and allow the macro execution. To help you to understand the file, there is some tips (like the real excel) that pop if you let your mouse above most of the button :
 
-You can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. You can find associate data example in the folder to easily test the files and reproduce what its show in videos.
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/1529f0e0-fc43-4baa-90cd-df656b282ed9)
+
+You can also find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. Associate data examples are in the folder to easily test the series plotter and reproduce what its show in videos.
+
+If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
 **Step by Step simple use :**
   - open the file
-  - add some data (you can click on the "template" to see how to input data)
-  - click on the "Get column" button
-  - select wanted element to plot in the "Graphic list" sheet
+  - add some data (or click on **"Data template"**)
+  - click on the **"Get column"** button
+  - select wanted element to plot in the *"Graphic list"* sheet
   - select wanted kind of graph
-  - click on "Plot Graphic" button
+  - click on **"Plot Graphic"** button
   
 *for more options, let your mouse on any button and a screen tips gonna appear*
 
