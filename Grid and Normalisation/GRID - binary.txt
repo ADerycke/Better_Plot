@@ -1,0 +1,57 @@
+Name list :
+
+Ewart et al. (1982)
+Le Bas et al. (1986)
+AI vs FSSI (Frost & Frost, 2008) 
+Frost & Frost (2008)
+Frost et al. (2001)
+La-Yb vs Yb (Hansen et al., 2002)
+Sr-Y vs Y (Hansen et al., 2002)
+Hastie et al. (2007)
+Nb-La vs La-Yb (Hollocher et al., 2012)
+Th-Nb vs La-Yb (Hollocher et al., 2012)
+alkaline vs sub-alkaline (Irvine & Baragar, 1971)
+normative plagio. (Irvine & Baragar, 1971)
+Pearce & Norry (1979)
+Pearce, 1976 (discriminant function 1 & 2)
+Pearce, 1976 (discriminant function 2 & 3)
+Pearce, 1983 (figure 10b)
+Pearce, 1983
+Pearce and Gale (1977)
+Nb vs Y (Pearce et al., 1984)
+Rb vs Nb-Ta (Pearce et al., 1984)
+Rb vs Nb-Y (Pearce et al., 1984)
+Yb vs Ta (Pearce et al., 1984)
+Zr-Ti vs Nb-Y (update Winchester & Floyd, 1977)
+Si02 vs Zr-Ti (updated Winchester & Floyd, 1977)
+Si02 vs Nb-Y (Winchester & Floyd, 1977)
+Winchester & Floyd (1976)
+
+
+Ref list :
+Ewart, Anthony. "The mineralogy and petrology of Tertiary-Recent orogenic volcanic rocks: with special reference to the andesitic-basaltic compositional range." Andesites: Orogenic Andesites and Related Rocks 7 (1982): 25-98..
+Le Bas, Michael J., et al. "A chemical classification of volcanic rocks based on the total alkali-silica diagram." Journal of petrology 27.3 (1986): 745-750.
+Frost, B. Ronald, and Carol D. Frost. "A geochemical classification for feldspathic igneous rocks." Journal of Petrology 49.11 (2008): 1955-1969.
+Frost, B. Ronald, and Carol D. Frost. "A geochemical classification for feldspathic igneous rocks." Journal of Petrology 49.11 (2008): 1955-1969.
+Frost, B. Ronald, et al. "A geochemical classification for granitic rocks."Journal of petrology 42.11 (2001): 2033-2048.
+Hansen, Jogvan, et al. "Crustal melting in the lower parts of island arcs: an example from the Bremanger Granitoid Complex, west Norwegian Caledonides." Contributions to Mineralogy and Petrology 143.3 (2002): 316-335.
+Hansen, Jogvan, et al. "Crustal melting in the lower parts of island arcs: an example from the Bremanger Granitoid Complex, west Norwegian Caledonides." Contributions to Mineralogy and Petrology 143.3 (2002): 316-335.
+Hastie, Alan Robert, et al. "Classification of altered volcanic island arc rocks using immobile trace elements: development of the Th–Co discrimination diagram." Journal of Petrology 48.12 (2007): 2341-2357.
+Hollocher, Kurt, et al. "Geochemistry of amphibolite-facies volcanics and gabbros of the Støren Nappe in extensions west and southwest of Trondheim, Western Gneiss Region, Norway: a key to correlations and paleotectonic settings." American Journal of Science 312.4 (2012): 357-416.
+Hollocher, Kurt, et al. "Geochemistry of amphibolite-facies volcanics and gabbros of the Støren Nappe in extensions west and southwest of Trondheim, Western Gneiss Region, Norway: a key to correlations and paleotectonic settings." American Journal of Science 312.4 (2012): 357-416.
+Irvine, TNj, and WRAf Baragar. "A guide to the chemical classification of the common volcanic rocks." Canadian journal of earth sciences 8.5 (1971): 523-548.
+Irvine, TNj, and WRAf Baragar. "A guide to the chemical classification of the common volcanic rocks." Canadian journal of earth sciences 8.5 (1971): 523-548. 
+Pearce, Julian A., and Michael J. Norry. "Petrogenetic implications of Ti, Zr, Y, and Nb variations in volcanic rocks." Contributions to mineralogy and petrology 69.1 (1979): 33-47.
+Pearce, Julian A. "Statistical analysis of major element patterns in basalts."Journal of Petrology 17.1 (1976): 15-43.
+Pearce, Julian A. "Statistical analysis of major element patterns in basalts."Journal of Petrology 17.1 (1976): 15-43.
+Pearce, Julian A. "Role of the sub-continental lithosphere in magma genesis at active continental margins." (1983): 230-249.
+Pearce, Julian A. "Role of the sub-continental lithosphere in magma genesis at active continental margins." (1983): 230-249.
+Pearce, Julian A., and G. H. Gale. "Identification of ore-deposition environment from trace-element geochemistry of associated igneous host rocks." Geological Society, London, Special Publications 7.1 (1977): 14-24.
+Pearce, Julian A., Nigel BW Harris, and Andrew G. Tindle. "Trace element discrimination diagrams for the tectonic interpretation of granitic rocks."Journal of petrology 25.4 (1984): 956-983.
+Pearce, Julian A., Nigel BW Harris, and Andrew G. Tindle. "Trace element discrimination diagrams for the tectonic interpretation of granitic rocks."Journal of petrology 25.4 (1984): 956-983.
+Pearce, Julian A., Nigel BW Harris, and Andrew G. Tindle. "Trace element discrimination diagrams for the tectonic interpretation of granitic rocks."Journal of petrology 25.4 (1984): 956-983.
+Pearce, Julian A., Nigel BW Harris, and Andrew G. Tindle. "Trace element discrimination diagrams for the tectonic interpretation of granitic rocks."Journal of petrology 25.4 (1984): 956-983.
+Winchester, J. A., and P. A. Floyd. "Geochemical discrimination of different magma series and their differentiation products using immobile elements."Chemical geology 20 (1977): 325-343.
+Winchester, J. A., and P. A. Floyd. "Geochemical discrimination of different magma series and their differentiation products using immobile elements."Chemical geology 20 (1977): 325-343.
+Winchester, J. A., and P. A. Floyd. "Geochemical discrimination of different magma series and their differentiation products using immobile elements."Chemical geology 20 (1977): 325-343.
+Winchester, J. A., and P. A. Floyd. "Geochemical magma type discrimination: application to altered and metamorphosed basic igneous rocks." Earth and Planetary Science Letters 28.3 (1976): 459-469.
