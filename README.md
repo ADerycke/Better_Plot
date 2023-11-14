@@ -22,7 +22,7 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
   - MacOS (Monterey) : tested and work for most of the main functionnalities
   
 For the MacOS user, several development facilities are not included in Mac Excel, so i'm working on correcting bug and make work all the functionnalities... but it take time.
-List of know problems : save as .pdf (not working???), export in a .ppt (not tested)....
+List of know problems : save as .pdf (but save as .svg...), export in a .ppt (not natively possible by now)....
 
 **Conceptor : Alexis Derycke** 
   - [Reseach Gate](https://www.researchgate.net/profile/Alexis-Derycke)
