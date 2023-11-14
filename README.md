@@ -19,9 +19,10 @@ There is no restriction to use and distribute the "Series Plotter" files, as lon
   - Windows 10 (32bit) : not tested but should work
   - Windows 10 (64bit) : tested and work
   - Windows 11 (64bit) : not tested but should work
-  - MacOS (Monterey) : tested and don't work
+  - MacOS (Monterey) : tested and work for most of the main functionnalities
   
-  For the MacOS user, Microsoft removed several development facilities from Mac Excel, so i'm not working on a proper version by now, sorry...
+For the MacOS user, several development facilities are not included in Mac Excel, so i'm working on correcting bug and make work all the functionnalities... but it take time.
+List of know problems : save as .pdf (not working???), export in a .ppt (not tested)....
 
 **Conceptor : Alexis Derycke** 
   - [Reseach Gate](https://www.researchgate.net/profile/Alexis-Derycke)
