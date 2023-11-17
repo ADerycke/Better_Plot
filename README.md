@@ -140,6 +140,10 @@ The available normalisation can be found and selected on the "Normalisation" she
 
 ![graph Normal law](https://github.com/ADerycke/Series-Plotter/assets/130437433/97ad0c89-154d-4c71-9103-68ade5a1e215)
 
+## weigth mean plot and calculation :
+
+![graph-Ages  Ma](https://github.com/ADerycke/Series-Plotter/assets/130437433/35dc744b-c9ff-48b1-bfc7-cf359496fc8a)
+
 ## X - Histogram (automatic generation) :
 
 ![X - Histogram](https://github.com/ADerycke/Series-Plotter/assets/130437433/e660c782-9aeb-4ce7-b2be-4eb6e6be83f6)
@@ -176,6 +180,9 @@ use only the Y axe to enter the data to plot (data in the same row will be plott
 
 ## Normal law and KDE (basic distribution) :
 no need of the "Graphics list", just select the data you want to analyse and clik on the proper button
+
+## weigth mean plot and calculation :
+no need of the "Graphics list", just select two column (column 1 : data, column two : error) you want to analyse and clik on the proper button
 
 ## X - Histogram (automatic generation) :
 use only the X axe to determine the data to plot
