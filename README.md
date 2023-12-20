@@ -136,7 +136,7 @@ This normalisation gonna be applied/remove to your data in fonction of what you 
 The available normalisation can be found and selected on the "Normalisation" sheet that apprear after it selection.
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f1bc2a27-678e-45de-a50b-678474d599d0)
 
-## Normal law and KDE (basic distribution) :
+## Normal law and KDE calculation :
 
 ![graph Normal law](https://github.com/ADerycke/Series-Plotter/assets/130437433/97ad0c89-154d-4c71-9103-68ade5a1e215)
 
@@ -150,6 +150,9 @@ The available normalisation can be found and selected on the "Normalisation" she
 
 **note :** when you select this, you enter the wanted range (here 6 to 18) and the wanted interval (here 1) and excel gonna automatically calculate the distribution in your dataset
 
+## Fit of multiple gaussian to a KDE distribution :
+
+![graph preak determination](https://github.com/ADerycke/Series-Plotter/assets/130437433/60c02689-7a26-4d8c-9543-2034f2f3c29d)
 
 # How to select the X-Y-Z axes in the "Graphics list" : <a id="part_4"></a> 
 
@@ -179,7 +182,7 @@ use only the Y axe to enter the data to plot (data in the same row will be plott
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/a319a9e3-47b7-438c-997b-8b320f0488f7)
 
 ## Normal law and KDE (basic distribution) :
-no need of the "Graphics list", just select the data you want to analyse and clik on the proper button
+no need of the "Graphics list", just select the data you want to analyse and clik on the proper button (column 1 : data, optinal : column two : error)
 
 ## weigth mean plot and calculation :
 no need of the "Graphics list", just select two column (column 1 : data, column two : error) you want to analyse and clik on the proper button
@@ -189,3 +192,5 @@ use only the X axe to determine the data to plot
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f21c0779-f18b-4f8e-89cf-2969ae9236b9)
 
+## Fit of multiple gaussian to a KDE distribution :
+no need of the "Graphics list", just select the data you want to analyse and clik on the proper button (column 1 : data, optinal : column two : error)
