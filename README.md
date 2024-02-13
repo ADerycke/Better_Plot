@@ -47,14 +47,15 @@ You can also find several videos (~2min) in the helping folder that gonna introd
 If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
 **Step by Step simple use :**
-  - open the file
-  - add some data (or click on **"Data template"**)
-  - click on the **"Get column"** button
-  - select wanted element to plot in the *"Graphic list"* sheet
-  - select wanted kind of graph
-  - click on **"Plot Graphic"** button
+  - step 1 : open the file and **allow macro execution**
+  - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**. The data structuration is quite simple : first row = hearder, second row = unit, thrid row = empty.
+  - step 3 : retriver your data header. To do so, click on the **"Get column"** button
+  - step 4 : chose the data to plot. To do so, go on the **"Graphic list"** sheet and select the corresponding position in the grid
+  - step 5 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
+  - step 6 : chose the header with sample ID. To do so, clik on the **left** dropdown of **"sample determination"** in the ribbon and select the appropriate header (e.g. "Name") 
+  - step 7 : generate the graphic(s). To do so, click on **"Plot Graphic"** button
   
-*for more options, let your mouse on any button and a screen tips gonna appear*
+For more options, let your mouse on any button and a screen tips gonna appear, or read the following documentations
 
 https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
 
@@ -66,22 +67,21 @@ Additionally, to this manual editing, you can modify several parameters for all 
 
 ## Ribbon options :
 
-This part of the ribbon allow you to change one series layout at the same time for all the graphs ("Set series color"), or retriever the layout of one graph ("Get series layout").
+**OPTION (Series)**
 
-The second one will store the layout of the sheets "Layout" for the next time you gonna generate plot.
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/7e28bd85-5ad5-4c12-b5ea-2dc64b13573b)
 
-The next three button change to one situation to another (plot point or line, smooth line...). "Axes auto" is for anchor axes at 0.
+You can find all the options to change and retriver the series layout. "Set series layout" will open a small windows to edit series layouts of all graph at the same time. "Get series color" will retriver the series colors form a graph for the next plotting. "Get graph layout" allow you to completely custom your graph and use this layout for latter plot. 
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/31d3911c-8068-4176-bbef-51996f77ba3a)
+**OPTION (Chart)**
 
-The second part of the options is for ON/OFF layout like adding/removing the legend, the principal vertical grid...
-Each time for all graphs/plots.
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/e1a645b5-b9b3-40aa-b588-8d93d606c719)
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/2420d5f6-f9e9-4c6d-8f88-aabf10b29f34)
+You can find all the options related to the chart/graph
 
 ## Sheets "Layout" options :
 
-It's not mandatory to use this sheets, it's only if you want to setup custom layout.
+It's not mandatory to use this sheets, it's only if you want to setup and re-use custom serie layout.
 
 You can right click on cells of the "Color" column and a colors selection window gonna appear, after the selection the cell gonna take the color you select.
 
