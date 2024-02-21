@@ -1,4 +1,5 @@
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b424b0f9-6329-48d9-bb85-59c1af6edd63)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/e5d3a593-eb1f-4c62-9168-ef9e182e0da8)
+
 
 # Series-Plotter : General introduction
 
