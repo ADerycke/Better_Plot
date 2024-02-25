@@ -1,5 +1,4 @@
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/e5d3a593-eb1f-4c62-9168-ef9e182e0da8)
-
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c1bc2456-fb91-46d5-a984-dd913be9a590)
 
 # Series-Plotter : General introduction
 
@@ -35,7 +34,9 @@ List of know problems : save as .pdf (but save as .svg...), export in a .ppt (no
 
 **- [Graphic type](#part_3)** : *XY , XYZ (Z as color), ternary diagram, vertical stacked XY, spider diagram, normalisation, grids,...*
 
-**- [How to select the X-Y-Z axes in the "Graphics list" sheet](#part_4)**
+**- [How to select the data for the "Plot from selection"](#part_4)**
+
+**- [How to select the X-Y-Z axes in the "Graphics list" sheet](#part_5)**
 
 
 # How to use the file <a id="part_1"></a> 
@@ -47,14 +48,21 @@ You can also find several videos (~2min) in the helping folder that gonna introd
 
 If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
-**Step by Step simple use :**
+**Plot from selections**
+  - step 1 : open the file and **allow macro execution**
+  - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**
+  - step 3 : select a range like for any classical Excel plot
+  - step 4 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
+  - step 5 : generate the graphic(s). To do so, click on the **"Plot from selections"** button
+
+**Plot from headers**
   - step 1 : open the file and **allow macro execution**
   - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**. The data structuration is quite simple : first row = hearder, second row = unit, thrid row = empty.
   - step 3 : retriver your data header. To do so, click on the **"Get column"** button
   - step 4 : chose the data to plot. To do so, go on the **"Graphic list"** sheet and select the corresponding position in the grid
   - step 5 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
   - step 6 : chose the header with sample ID. To do so, clik on the **left** dropdown of **"sample determination"** in the ribbon and select the appropriate header (e.g. "Name") 
-  - step 7 : generate the graphic(s). To do so, click on **"Plot Graphic"** button
+  - step 7 : generate the graphic(s). To do so, click on the **"Plot from headers"** button
   
 For more options, let your mouse on any button and a screen tips gonna appear, or read the following documentations
 
@@ -64,7 +72,7 @@ https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a
 
 All graphs/plots are full Excel graphs/plots (event more complex one as stacked or ternary plot), so you can edit/copy/use them like any other Excel graphs/plots.
 
-Additionally, to this manual editing, you can modify several parameters for all graphs/plots automatically using the ribbon or the "Layout" sheets.
+In additiona to this manual editing, you can modify several parameters for all graphs/plots automatically using the ribbon or the "Layout" sheets.
 
 ## Ribbon options :
 
@@ -73,6 +81,8 @@ Additionally, to this manual editing, you can modify several parameters for all 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/7e28bd85-5ad5-4c12-b5ea-2dc64b13573b)
 
 You can find all the options to change and retriver the series layout. "Set series layout" will open a small windows to edit series layouts of all graph at the same time. "Get series color" will retriver the series colors form a graph for the next plotting. "Get graph layout" allow you to completely custom your graph and use this layout for latter plot. 
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c3644b2f-bf9b-43fe-bc4d-e5fd3ad3be02)
 
 **OPTION (Chart)**
 
@@ -155,43 +165,53 @@ The available normalisation can be found and selected on the "Normalisation" she
 
 ![graph preak determination](https://github.com/ADerycke/Series-Plotter/assets/130437433/60c02689-7a26-4d8c-9543-2034f2f3c29d)
 
-# How to select the X-Y-Z axes in the "Graphics list" : <a id="part_4"></a> 
+# How to select the data for the "Plot from selection"  : <a id="part_4"></a> 
+
+  - **graphic XY** : column 1 = axe X, column 2 = axe Y
+  - **graphic XY - stacked** : column 1 = axe X and column 2 = axe Y *(chart 1)*; column 3 = axe X and column 4 = axe Y *(chart 2)* ; etc...
+  - **graphic XYZ (Z as color)** : column 1 = axe X, column 2 = axe Y, column 3 = color
+  - **graphic XYZ (ternary diagram)** : column 1 = Left, column 2 = Top, column 3 = Right, (column 4 = Bot.)
+  - **X - Histogram (automatic generation)** : column 1 = data
+
+Example of selection for a ternary diagram :
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f7bb98f6-7d94-4476-a9d2-0fe2fedf5fcf)
+
+
+# How to select the axes in the "Graphics list" : <a id="part_5"></a> 
 
 ## graphic XY :
 Just enter X and Y axes ...
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/886f5d18-8c44-4e45-ae9d-afa8800e0d94)
 
-## graphic XYZ (Z as color) : 
-the Z axe is read in the area as the X axe
-
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b77def31-8547-4183-8472-4f9240847829)
-
-## graphic XYZ (ternary diagram) :
-the 3 pole of the ternary diagram is read only on the Y axe (add a fourth one to get a double ternary diagram)
-
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/8aea9da8-be10-4dc4-aa75-7b892bd0f987)
-
 ## graphic XY - stacked :
 you can use same or different X axes for the time
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/e87bc40f-29a3-4be0-b348-8c5842243cb1)
 
+## graphic XYZ (Z as color) : 
+the Z axe is read in the area as the X axe
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/38a5664f-f57c-4a0f-b6aa-891cf1dc143b)
+
+## graphic XYZ (ternary diagram) :
+the 3 pole of the ternary diagram is read only on the X axe (add a fourth one to get a double ternary diagram)
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/5934a7a8-f547-46f1-97d9-9c83da936181)
+
 ## graphic Y (spectra/spider diagram) :
-use only the Y axe to enter the data to plot (data in the same row will be plotted together)
+use only the X axe to enter the data to plot, you can generate only one chart at time.
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/a319a9e3-47b7-438c-997b-8b320f0488f7)
-
-## Normal law and KDE (basic distribution) :
-no need of the "Graphics list", just select the data you want to analyse and clik on the proper button (column 1 : data, optinal : column two : error)
-
-## weigth mean plot and calculation :
-no need of the "Graphics list", just select two column (column 1 : data, column two : error) you want to analyse and clik on the proper button
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/45f80dea-5df6-49cc-954f-fbc499c11661)
 
 ## X - Histogram (automatic generation) :
-use only the X axe to determine the data to plot
+use only the X axe to determine the data to plot (one data = one chart)
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f21c0779-f18b-4f8e-89cf-2969ae9236b9)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/7730c79d-0107-4d0b-a12a-ff79a5a44c15)
 
-## Fit of multiple gaussian to a KDE distribution :
-no need of the "Graphics list", just select the data you want to analyse and clik on the proper button (column 1 : data, optinal : column two : error)
+## Statistical plots :
+no need of the "Graphics list", it just use the selected range as for **"Plot from selection"**. Just select the data you want to analyse and clik on the proper button.
+
+  - **normal law and KDE (basic distribution)** : column 1 = data, optinal column two = error
+  - **weigth mean plot and calculation** : column 1 = data, column two = error
+  - **fit of multiple gaussian to a KDE distribution** : column 1 = data, optinal : column two = error
