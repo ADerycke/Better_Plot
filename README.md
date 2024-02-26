@@ -73,9 +73,9 @@ https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a
 If you use "**"Plot from headers"** the excel file can automatically handle the error-bar add. To do so, you just have to add the data uncertainty/error in the following column with the headers including "±".
 The error can be enter as absolute or relative, if uncertainty/error column don't have any unit, it will be considere at absolut error, otherwise you have to add "%" to the header unit.
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/4f894ff3-30d2-45ab-aecc-68a87a44e484)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/5c0453ab-b71b-4dec-a8ee-40c4cf308d8f)
 
-You can automatically had uncertainty/error header by using the **"Data tools"** option.
+If you want, you can automatically had uncertainty/error header by using the **"Data tools"** option.
 
 # How to set-up the layout (color, shape,...) : <a id="part_2"></a> 
 
@@ -85,11 +85,25 @@ In additiona to this manual editing, you can modify several parameters for all g
 
 ## Ribbon options :
 
+***Data tools* in DATA**
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/02197977-9147-4e11-867c-b4b684528ee1)
+
+This include different options to help you to handle your data, like :
+  - clean all the *Data & Graphics* sheets
+  - converting cells see as "string" by Excel to "number" properly recognise
+  - add a "sarting row" to lets some row above the headers (to enter data information, constante, etc)
+  - do an automatic layout for the headers
+  - etc
+
 **OPTION (Series)**
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/7e28bd85-5ad5-4c12-b5ea-2dc64b13573b)
 
-You can find all the options to change and retriver the series layout. "Set series layout" will open a small windows to edit series layouts of all graph at the same time. "Get series color" will retriver the series colors form a graph for the next plotting. "Get graph layout" allow you to completely custom your graph and use this layout for latter plot. 
+You can find all the options to change and retriver the series layout :
+- "Set series layout" will open a small windows to edit series layouts of all graph at the same time
+- "Get series color" will retriver the series colors form a graph for the next plotting
+- "Get graph layout" allow you to completely custom your graph and use this layout for latter plot 
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c3644b2f-bf9b-43fe-bc4d-e5fd3ad3be02)
 
@@ -101,7 +115,7 @@ You can find all the options related to the chart/graph
 
 ## Sheets "Layout" options :
 
-It's not mandatory to use this sheets, it's only if you want to setup and re-use custom serie layout.
+It's not mandatory to use this sheets, it's only if you want to setup and re-use custom series layout.
 
 You can right click on cells of the "Color" column and a colors selection window gonna appear, after the selection the cell gonna take the color you select.
 
