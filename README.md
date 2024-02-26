@@ -1,5 +1,6 @@
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c1bc2456-fb91-46d5-a984-dd913be9a590)
 
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Series-Plotter/README.fr.md)
 # Series-Plotter : General introduction
 
 This file ***Series plotter(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
