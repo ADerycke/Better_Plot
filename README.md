@@ -49,14 +49,14 @@ You can also find several videos (~2min) in the helping folder that gonna introd
 
 If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
-**Plot from selections**
+## Plot from selections
   - step 1 : open the file and **allow macro execution**
   - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**
   - step 3 : select a range like for any classical Excel plot
   - step 4 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
   - step 5 : generate the graphic(s). To do so, click on the **"Plot from selections"** button
 
-**Plot from headers**
+## Plot from headers
   - step 1 : open the file and **allow macro execution**
   - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**. The data structuration is quite simple : first row = hearder, second row = unit, thrid row = empty.
   - step 3 : retriver your data header. To do so, click on the **"Get column"** button
@@ -68,6 +68,14 @@ If you want to simply play with Series Plotter, you can click on **"Data templat
 For more options, let your mouse on any button and a screen tips gonna appear, or read the following documentations
 
 https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
+
+## Plot data uncertainty and / or error 
+If you use "**"Plot from headers"** the excel file can automatically handle the error-bar add. To do so, you just have to add the data uncertainty/error in the following column with the headers including "±".
+The error can be enter as absolute or relative, if uncertainty/error column don't have any unit, it will be considere at absolut error, otherwise you have to add "%" to the header unit.
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/4f894ff3-30d2-45ab-aecc-68a87a44e484)
+
+You can automatically had uncertainty/error header by using the **"Data tools"** option.
 
 # How to set-up the layout (color, shape,...) : <a id="part_2"></a> 
 
