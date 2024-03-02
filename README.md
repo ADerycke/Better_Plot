@@ -33,7 +33,7 @@ List of know problems : save as .pdf (but save as .svg...), export in a .ppt (no
 
 **- [How to set-up the layout (color, shape,...)](#part_2)**
 
-**- [Graphic type](#part_3)** : *XY , XYZ (Z as color), ternary diagram, vertical stacked XY, spider diagram, normalisation, grids,...*
+**- [Graphic type](#part_3)** : *XY , XYZ (Z as color), ternary diagram, vertical stacked XY, geological time scale, spider diagram, normalisation, grids,...*
 
 **- [How to select the data for the "Plot from selection"](#part_4)**
 
@@ -160,6 +160,17 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 ## graphic XY - stacked :
 
 ![graph XY - stacked ](https://user-images.githubusercontent.com/130437433/233655423-5dc175fc-9fe8-4177-9faa-4711021abeee.png)
+
+
+## Geological time scale :
+
+![graph-1](https://github.com/ADerycke/Series-Plotter/assets/130437433/ccfb767d-bc87-440d-bb5d-037e596f78b2)
+
+**note :** this is a classical excel plot, so you can edit it (min, max, size...) as any other excel chart. By now the added Geological Time Scale correspond to the 2022. It was added using the work of [M. J. Williams](https://github.com/morganjwilliams/pyrolite.git). After generation, the graph will include the Period name (hidded in the picture above)
+
+You can select between different resolution and/or add any time scale using the button **"Add a time scale"** on the "OPTIONS (Chart)". If you select a graph/chart before clicking on *Plot*, the time scale will replace the corresponding axes.
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/ab73f19b-0708-47fc-8c94-eaa1810ad092)
+
 
 ## graphic Y (spectra/spider diagram) :
 
