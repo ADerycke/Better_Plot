@@ -164,13 +164,14 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 ## Geological time scale :
 
-![graph-1](https://github.com/ADerycke/Series-Plotter/assets/130437433/ccfb767d-bc87-440d-bb5d-037e596f78b2)
+![timescale](https://github.com/ADerycke/Series-Plotter/assets/130437433/e2a2a480-f3c0-470a-bd72-b2738c528246)
 
 **note :** this is a classical excel plot, so you can edit it (min, max, size...) as any other excel chart. By now the added Geological Time Scale correspond to the 2022. It was added using the work of [M. J. Williams](https://github.com/morganjwilliams/pyrolite.git). After generation, the graph will include the Period name (hidded in the picture above)
 
 You can select between different resolution and/or add any time scale using the button **"Add a time scale"** on the "OPTIONS (Chart)". If you select a graph/chart before clicking on *Plot*, the time scale will replace the corresponding axes.
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/ab73f19b-0708-47fc-8c94-eaa1810ad092) ![graph-2 test](https://github.com/ADerycke/Series-Plotter/assets/130437433/358ed5fe-6cd7-4a0f-9d8b-9fc026ba9fef)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/ab73f19b-0708-47fc-8c94-eaa1810ad092) 
 
+![timescale 2](https://github.com/ADerycke/Series-Plotter/assets/130437433/8b4bc925-85f9-41dc-80b2-af5adbeca7fa)
 
 ## graphic Y (spectra/spider diagram) :
 
