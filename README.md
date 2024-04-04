@@ -98,7 +98,7 @@ This include different options to help you to handle your data, like :
 
 **OPTION (Series)**
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/7e28bd85-5ad5-4c12-b5ea-2dc64b13573b)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/5aab3790-fc4d-4bff-a9fe-f7b4c5c63f04)
 
 You can find all the options to change and retriver the series layout :
 - "Set series layout" will open a small windows to edit series layouts of all graph at the same time
@@ -131,11 +131,15 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 # Graphic type : <a id="part_3"></a> 
 
-## graphic XY :
+## graphic XY (grid) :
 
 ![graph XY](https://user-images.githubusercontent.com/130437433/233654680-7dec2505-8e34-4ba6-90ac-d4c969450cd1.png)
 
-**note :** for binary diagram, multiple automatic grid are already ready to add to graph
+**option 1 :** you can plot error as classical bar or as elipse by selecting it in "plot options"
+
+![graph XY - elispe](https://github.com/ADerycke/Series-Plotter/assets/130437433/cd408c8c-d0b4-4ba8-bb3a-8585cd32ee6d)
+
+**option 2 :** for binary diagram, multiple automatic grid are already ready to add to graph
 ![image](https://user-images.githubusercontent.com/130437433/233656030-1236a5e2-c85f-40e5-a94c-f834610e12a8.png)
 
 ![graph XY - grid](https://github.com/ADerycke/Series-Plotter/assets/130437433/9b0c2ee8-5b1b-4162-a395-3155466ece9f)
@@ -199,6 +203,12 @@ The available normalisation can be found and selected on the "Normalisation" she
 ## Fit of multiple gaussian to a KDE distribution :
 
 ![graph preak determination](https://github.com/ADerycke/Series-Plotter/assets/130437433/60c02689-7a26-4d8c-9543-2034f2f3c29d)
+
+## Radial plot design by [Galbraith (1988)](https://www.tandfonline.com/doi/abs/10.1080/00401706.1988.10488400) error for visualisation
+
+![graph - radial plot](https://github.com/ADerycke/Series-Plotter/assets/130437433/f61b6967-85a9-4390-95e1-0bc8ec16b74f)
+
+**note :** by now this plot is only a representation, I'm currently waiting python implementation in excel to allow complex statistic calculation in it.
 
 # How to select the data for the "Plot from selection"  : <a id="part_4"></a> 
 
