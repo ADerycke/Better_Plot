@@ -49,14 +49,14 @@ You can also find several videos (~2min) in the helping folder that gonna introd
 
 If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
-## Plot from selections
+## Plot from selections ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f8864374-40ed-4934-970f-d188de367301)
   - step 1 : open the file and **allow macro execution**
   - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**
   - step 3 : select a range like for any classical Excel plot
   - step 4 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
   - step 5 : generate the graphic(s). To do so, click on the **"Plot from selections"** button
 
-## Plot from headers
+## Plot from headers ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b03fb12b-7305-470a-8800-2e6a827c6045)
   - step 1 : open the file and **allow macro execution**
   - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**. The data structuration is quite simple : first row = hearder, second row = unit, thrid row = empty.
   - step 3 : retriver your data header. To do so, click on the **"Get column"** button
@@ -167,7 +167,7 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 **note :** this is a classical excel plot, so you can edit it (min, max, size...) as any other excel chart. By now the added Geological Time Scale correspond to the 2022. It was added using the work of [M. J. Williams](https://github.com/morganjwilliams/pyrolite.git). After generation, the graph will include the Period name (hidded in the picture above)
 
-You can select between different resolution and/or add any time scale using the button **"Add a time scale"** on the "OPTIONS (Chart)". If you select a graph/chart before clicking on *Plot*, the time scale will replace the corresponding axes.
+You can select between different resolution and/or add any time scale using the button **"Add a time scale"** on the "Windows options". If you select a graph/chart before clicking on *Plot*, the time scale will replace the corresponding axes.
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/ab73f19b-0708-47fc-8c94-eaa1810ad092) 
 
 ![timescale 2](https://github.com/ADerycke/Series-Plotter/assets/130437433/8b4bc925-85f9-41dc-80b2-af5adbeca7fa)
@@ -200,7 +200,7 @@ The available normalisation can be found and selected on the "Normalisation" she
 
 ![graph preak determination](https://github.com/ADerycke/Series-Plotter/assets/130437433/60c02689-7a26-4d8c-9543-2034f2f3c29d)
 
-## Radial plot design by [Galbraith (1988)](https://www.tandfonline.com/doi/abs/10.1080/00401706.1988.10488400) error for visualisation
+## Radial plot design by [Galbraith (1988)](https://www.tandfonline.com/doi/abs/10.1080/00401706.1988.10488400) for error visualisation
 
 ![graph - radial plot](https://github.com/ADerycke/Series-Plotter/assets/130437433/f61b6967-85a9-4390-95e1-0bc8ec16b74f)
 
