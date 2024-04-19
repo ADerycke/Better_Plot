@@ -1,4 +1,4 @@
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c1bc2456-fb91-46d5-a984-dd913be9a590)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/2aa0d052-8c53-41d8-b906-e5547c0a2f9e)
 
 [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Series-Plotter/blob/main/README.fr.md)
 # Series-Plotter : General introduction
@@ -43,7 +43,7 @@ List of know problems : save as .pdf (but save as .svg...), export in a .ppt (no
 # How to use the file <a id="part_1"></a> 
 You just have to download the file, opening it and allow the macro execution. To help you to understand the file, there is some tips (like the real excel) that pop if you let your mouse above most of the button :
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/1529f0e0-fc43-4baa-90cd-df656b282ed9)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/af88da3c-7cc5-4235-8cd5-ddbc0d933168)
 
 You can also find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. Associate data examples are in the folder to easily test the series plotter and reproduce what its show in videos.
 
@@ -87,7 +87,7 @@ In additiona to this manual editing, you can modify several parameters for all g
 
 ***Data tools* in DATA**
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/02197977-9147-4e11-867c-b4b684528ee1)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/ed994745-b7fd-4f3e-b549-d3f134942bf5)
 
 This include different options to help you to handle your data, like :
   - clean all the *Data & Graphics* sheets
@@ -96,22 +96,17 @@ This include different options to help you to handle your data, like :
   - do an automatic layout for the headers
   - etc
 
-**OPTION (Series)**
+**OPTIONS**
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/5aab3790-fc4d-4bff-a9fe-f7b4c5c63f04)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b23a7806-a909-4ea6-a073-469734cdba13)
 
 You can find all the options to change and retriver the series layout :
-- "Set series layout" will open a small windows to edit series layouts of all graph at the same time
-- "Get series color" will retriver the series colors form a graph for the next plotting
-- "Get graph layout" allow you to completely custom your graph and use this layout for latter plot 
+- "series layout" will open a small windows to edit series layouts of all graph at the same time
+- "retriver series color" will retriver the series colors form a graph for the next plotting
+- "retriver graph layout" allow you to completely custom your graph and use this layout for latter plot 
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c3644b2f-bf9b-43fe-bc4d-e5fd3ad3be02)
 
-**OPTION (Chart)**
-
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/e1a645b5-b9b3-40aa-b588-8d93d606c719)
-
-You can find all the options related to the chart/graph
 
 ## Sheets "Layout" options :
 
@@ -140,7 +135,7 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 ![graph XY - elispe](https://github.com/ADerycke/Series-Plotter/assets/130437433/cd408c8c-d0b4-4ba8-bb3a-8585cd32ee6d)
 
 **option 2 :** for binary diagram, multiple automatic grid are already ready to add to graph
-![image](https://user-images.githubusercontent.com/130437433/233656030-1236a5e2-c85f-40e5-a94c-f834610e12a8.png)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/50454a58-6944-4741-8c21-04db95056ee5)
 
 ![graph XY - grid](https://github.com/ADerycke/Series-Plotter/assets/130437433/9b0c2ee8-5b1b-4162-a395-3155466ece9f)
 
@@ -158,7 +153,7 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 **note :** for ternary diagram, multiple automatic grid are already ready to add to graph
 
-![image](https://user-images.githubusercontent.com/130437433/233655226-8d13ca9e-ea7e-4495-881e-ff361bf8c55b.png)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c98abc04-d290-48e3-b097-2f80aeef22c4)
 
 
 ## graphic XY - stacked :
@@ -181,10 +176,11 @@ You can select between different resolution and/or add any time scale using the 
 
 ![graph Y](https://user-images.githubusercontent.com/130437433/233655533-995ee4f8-3b7d-4268-9f38-8be0b044d1d1.png)
 
-**note :** for spider diagram, an automatic normalisation is possible (msg pop-up at the selection).
+**note :** for spider diagram, an automatic normalisation is possible.
 This normalisation gonna be applied/remove to your data in fonction of what you want.
 The available normalisation can be found and selected on the "Normalisation" sheet that apprear after it selection.
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f1bc2a27-678e-45de-a50b-678474d599d0)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/044f0f23-3541-406e-b56b-fdb89edb459d)
+
 
 ## Normal law and KDE calculation :
 
