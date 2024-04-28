@@ -8,7 +8,7 @@
 # Series-Plotter : General introduction
 
 This file ***Series plotter(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
-The file also has tools for geosciences like :
+The file also include tools for geosciences like :
   - allowing to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid file).
   - allowing to automatically normalise geochemical data, with a list of already implemented geochemical normalisation (cf. normalisation file).
 
@@ -49,20 +49,20 @@ You just have to download the file, opening it and allow the macro execution. To
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/af88da3c-7cc5-4235-8cd5-ddbc0d933168)
 
-You can also find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. Associate data examples are in the folder to easily test the series plotter and reproduce what its show in videos.
+You also can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. Associate data examples are in the folder to easily test the series plotter and reproduce what its show in videos.
 
 If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
 ## Plot from selections ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f8864374-40ed-4934-970f-d188de367301)
   - step 1 : open the file and **allow macro execution**
-  - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**
-  - step 3 : select a range like for any classical Excel plot
+  - step 2 : add some data to the "Data & Graphics" sheet. You can do it as any other excel sheets, or click on **"Data template"** in the *HELP*
+  - step 3 : select a range like for any classical Excel plot (like two columns for example)
   - step 4 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
   - step 5 : generate the graphic(s). To do so, click on the **"Plot from selections"** button
 
 ## Plot from headers ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b03fb12b-7305-470a-8800-2e6a827c6045)
   - step 1 : open the file and **allow macro execution**
-  - step 2 : add some data. You can do it as any other excel sheets, or click on **"Data template"**. The data structuration is quite simple : first row = hearder, second row = unit, thrid row = empty.
+  - step 2 : add some data to the "Data & Graphics" sheet. You can do it as any other excel sheets, or click on **"Data template"** in the *HELP*. The data structuration is quite simple : first row = hearder, second row = unit, thrid row = empty.
   - step 3 : retriver your data header. To do so, click on the **"Get column"** button
   - step 4 : chose the data to plot. To do so, go on the **"Graphic list"** sheet and select the corresponding position in the grid
   - step 5 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
@@ -74,8 +74,8 @@ For more options, let your mouse on any button and a screen tips gonna appear, o
 https://github.com/ADerycke/Series-Plotter/assets/130437433/d620555c-989c-427b-a564-139f6c200737
 
 ## Plot data uncertainty and / or error 
-If you use "**"Plot from headers"** the excel file can automatically handle the error-bar add. To do so, you just have to add the data uncertainty/error in the following column with the headers including "±".
-The error can be enter as absolute or relative, if uncertainty/error column don't have any unit, it will be considere at absolut error, otherwise you have to add "%" to the header unit.
+If you use **"Plot from headers"** the excel file can automatically handle the error-bar add. To do so, you just have to add the data uncertainty/error in the following column with the headers including "±".
+The error can be enter as absolute ("*[unit]*") or relative ("*[%]*"), if uncertainty/error column don't have any unit, it will be considere at absolut error, otherwise you have to add "%" to the header unit.
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/5c0453ab-b71b-4dec-a8ee-40c4cf308d8f)
 
