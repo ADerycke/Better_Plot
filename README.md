@@ -37,7 +37,7 @@ List of know problems : save as .pdf (but save as .svg...), export in a .ppt (no
 
 **- [How to set-up the layout (color, shape,...)](#part_2)**
 
-**- [Graphic type](#part_3)** : *XY , XYZ (Z as color), ternary diagram, vertical stacked XY, geological time scale, spider diagram, normalisation, grids,...*
+**- [Graphic type](#part_3)** : *XY , XYZ (Z as color), ternary diagram, vertical stacked XY, geological time scale, spider diagram, normalisation, grids, better regression...*
 
 **- [How to select the data for the "Plot from selection"](#part_4)**
 
