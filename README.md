@@ -185,8 +185,16 @@ This normalisation gonna be applied/remove to your data in fonction of what you 
 The available normalisation can be found and selected on the "Normalisation" sheet that apprear after it selection.
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/044f0f23-3541-406e-b56b-fdb89edb459d)
 
+## regression and mobil average
 
-## Normal law and KDE calculation :
+![lin  reg](https://github.com/ADerycke/Series-Plotter/assets/130437433/a5ec4279-b471-49be-8cd3-a8ce6e3b966e)
+
+![moving average](https://github.com/ADerycke/Series-Plotter/assets/130437433/5090d6c0-4f29-4ecd-aee9-4c46ca08838e)
+
+**note :** you can add this to any series by rigth clicking on a serie :
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/43b6ec6f-2a41-4186-bd73-0d9077dbb7f7)
+
+## normal law and KDE calculation :
 
 ![graph Normal law](https://github.com/ADerycke/Series-Plotter/assets/130437433/97ad0c89-154d-4c71-9103-68ade5a1e215)
 
