@@ -172,7 +172,8 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 ## graphic XY - stacked :
 
-![graph XY - stacked ](https://user-images.githubusercontent.com/130437433/233655423-5dc175fc-9fe8-4177-9faa-4711021abeee.png)
+![graph stacked X](https://github.com/ADerycke/Series-Plotter/assets/130437433/1cdc605f-5fa7-43cc-b923-146d6e6907d0)
+![graph stacked Y](https://github.com/ADerycke/Series-Plotter/assets/130437433/424ffc90-501b-4565-8f31-de4389a7a6bd)
 
 
 ## Geological time scale :
