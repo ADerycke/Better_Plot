@@ -1,4 +1,4 @@
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/2aa0d052-8c53-41d8-b906-e5547c0a2f9e)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/eec94b81-1b0c-4071-bfe7-846273180c02)
 
 
 [**Click here to directly download the last version !**](https://github.com/ADerycke/Series-Plotter/raw/main/Series%20plotter%20(24m05b).xlsm)
@@ -89,9 +89,7 @@ In additiona to this manual editing, you can modify several parameters for all g
 
 ## Ribbon options :
 
-***Data tools* in DATA**
-
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/ed994745-b7fd-4f3e-b549-d3f134942bf5)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/944da2fa-3ec7-4d66-8a02-6ef0174aa209)
 
 This include different options to help you to handle your data, like :
   - clean all the *Data & Graphics* sheets
@@ -100,20 +98,14 @@ This include different options to help you to handle your data, like :
   - do an automatic layout for the headers
   - etc
 
-**OPTIONS**
-
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b23a7806-a909-4ea6-a073-469734cdba13)
-
 You can find all the options to change and retriver the series layout :
 - "series layout" will open a small windows to edit series layouts of all graph at the same time
 - "retriver series color" will retriver the series colors form a graph for the next plotting
 - "retriver graph layout" allow you to completely custom your graph and use this layout for latter plot 
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c3644b2f-bf9b-43fe-bc4d-e5fd3ad3be02)
-
 ## Right click options :
 
-![RC - example](https://github.com/ADerycke/Series-Plotter/assets/130437433/71e7f0ba-6113-4fd0-be17-f15289f7a0a7)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/8d35ef13-2967-419a-9b1e-3cf0d257bf27)
 
 You can right click on series to :
   - add regression to data with associated predicted envelop
