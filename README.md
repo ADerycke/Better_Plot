@@ -111,6 +111,22 @@ You can find all the options to change and retriver the series layout :
 
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c3644b2f-bf9b-43fe-bc4d-e5fd3ad3be02)
 
+## Right click options :
+
+You can right click on series or axes of chart to get access to some other options :
+
+***right click on series :***
+
+Add regression to data with associated predicted envelop, calculate the 95% enveloppe of an XY data. Add min/max/mean or 1/3quartile and mediane to an Y serie 
+
+![envelop lin reg](https://github.com/ADerycke/Series-Plotter/assets/130437433/fbb68b79-b4dd-459a-bef1-291696c42b70)  ![envelop elypse](https://github.com/ADerycke/Series-Plotter/assets/130437433/da3b5e89-ee82-4abe-ad82-d97b9f21c73f) ![envelop Y](https://github.com/ADerycke/Series-Plotter/assets/130437433/975dac4c-7545-46c9-bac6-a232babf3539)
+
+***right click on an axe :***
+
+replace the axe by a timescale or add a constant
+
+![add time scale](https://github.com/ADerycke/Series-Plotter/assets/130437433/5f433d53-c7ef-4e98-8f81-549610cee7a3)
+
 
 ## Sheets "Layout" options :
 
