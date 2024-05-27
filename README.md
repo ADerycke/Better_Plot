@@ -190,6 +190,8 @@ You can select between different resolution and/or add any time scale using the 
 
 ![graph Y](https://user-images.githubusercontent.com/130437433/233655533-995ee4f8-3b7d-4268-9f38-8be0b044d1d1.png)
 
+![graph Y - mean](https://github.com/ADerycke/Series-Plotter/assets/130437433/7590a88f-121a-43df-baae-4e22718afd64)
+
 **note :** for spider diagram, an automatic normalisation is possible.
 This normalisation gonna be applied/remove to your data in fonction of what you want.
 The available normalisation can be found and selected on the "Normalisation" sheet that apprear after it selection.
