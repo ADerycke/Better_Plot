@@ -113,20 +113,22 @@ You can find all the options to change and retriver the series layout :
 
 ## Right click options :
 
-You can right click on series or axes of chart to get access to some other options :
+![RC - example](https://github.com/ADerycke/Series-Plotter/assets/130437433/71e7f0ba-6113-4fd0-be17-f15289f7a0a7)
 
-***right click on series :***
+You can right click on series to :
+  - add regression to data with associated predicted envelop
+  - ad 95% enveloppe of an XY dataset
+  - add min/max/mean of an Y dataset
+  - add first, last quartile and median of an Y dataset
+  - add a moving average on a XY temporal dataset
 
-Add regression to data with associated predicted envelop, calculate the 95% enveloppe of an XY data. Add min/max/mean or 1/3quartile and mediane to an Y serie 
+Or right click on a axe to :
+  - add a constant
+  - replace the axe by a time scale
 
-![envelop lin reg](https://github.com/ADerycke/Series-Plotter/assets/130437433/fbb68b79-b4dd-459a-bef1-291696c42b70)  ![envelop elypse](https://github.com/ADerycke/Series-Plotter/assets/130437433/da3b5e89-ee82-4abe-ad82-d97b9f21c73f) ![envelop Y](https://github.com/ADerycke/Series-Plotter/assets/130437433/975dac4c-7545-46c9-bac6-a232babf3539)
+![RC - regression](https://github.com/ADerycke/Series-Plotter/assets/130437433/e3e0f424-9648-4df2-a0f0-28d94fcafa93)
 
-***right click on an axe :***
-
-replace the axe by a timescale or add a constant
-
-![add time scale](https://github.com/ADerycke/Series-Plotter/assets/130437433/5f433d53-c7ef-4e98-8f81-549610cee7a3)
-
+![RC - axe et autre](https://github.com/ADerycke/Series-Plotter/assets/130437433/98a5db70-c627-44f5-9b3f-39e671d5a1b2)
 
 ## Sheets "Layout" options :
 
