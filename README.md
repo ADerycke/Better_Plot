@@ -1,7 +1,7 @@
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/eec94b81-1b0c-4071-bfe7-846273180c02)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/12587327-21fc-4f00-b112-4a55b2031823)
 
 
-[**Click here to directly download the last version !**](https://github.com/ADerycke/Series-Plotter/raw/main/Series%20plotter%20(24m05c).xlsm)
+[**Click here to directly download the last version !**](https://github.com/ADerycke/Series-Plotter/raw/main/Series%20plotter%20(24m06a).xlsm)
 
 
 [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Series-Plotter/blob/main/README.fr.md)
