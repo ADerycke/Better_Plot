@@ -130,7 +130,7 @@ You can right click on cells of the "Color" column and a colors selection window
 
 You can copy and past the color obtains to all cells, it gonna work. If you remove the value inside the cell, then the color goes back to "nul", meaning automatic to excel.
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/277658b7-6458-4106-8b56-4ff51611f52a)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/5905e8ab-845a-492a-b15b-766923497400)
 
 
 If you select multiple cells, then it gonna automatically generate a color gradient : 
