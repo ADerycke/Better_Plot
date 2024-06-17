@@ -1,10 +1,8 @@
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/12587327-21fc-4f00-b112-4a55b2031823)
-
+![header](https://github.com/ADerycke/Series-Plotter/assets/130437433/7bb306dd-409e-4777-9d38-bd698beeced4)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Series-Plotter/blob/main/README.fr.md)
 
 [**Click here to directly download the last version !**](https://github.com/ADerycke/Series-Plotter/raw/main/Series%20plotter%20(24m06a).xlsm)
 
-
-[![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Series-Plotter/blob/main/README.fr.md)
 # Series-Plotter : General introduction
 
 This file ***Series plotter(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
@@ -47,20 +45,20 @@ List of know problems : save as .pdf (but save as .svg...), export in a .ppt (no
 # How to use the file <a id="part_1"></a> 
 You just have to download the file, opening it and allow the macro execution. To help you to understand the file, there is some tips (like the real excel) that pop if you let your mouse above most of the button :
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/af88da3c-7cc5-4235-8cd5-ddbc0d933168)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/eb6d4f7c-8c7e-4607-9fbf-df08c61243ee)
 
 You also can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. Associate data examples are in the folder to easily test the series plotter and reproduce what its show in videos.
 
 If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
-## Plot from selections ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f8864374-40ed-4934-970f-d188de367301)
+## ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f8864374-40ed-4934-970f-d188de367301) Plot from selections 
   - step 1 : open the file and **allow macro execution**
   - step 2 : add some data to the "Data & Graphics" sheet. You can do it as any other excel sheets, or click on **"Data template"** in the *HELP*
   - step 3 : select a range like for any classical Excel plot (like two columns for example)
   - step 4 : chose the type of plot. To do so, clik on dropdown **"Select the graphic(s) type"** in the ribbon and select the wanted plot (e.g. "XY - classic")
   - step 5 : generate the graphic(s). To do so, click on the **"Plot from selections"** button
 
-## Plot from headers ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b03fb12b-7305-470a-8800-2e6a827c6045)
+## ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b03fb12b-7305-470a-8800-2e6a827c6045) Plot from headers 
   - step 1 : open the file and **allow macro execution**
   - step 2 : add some data to the "Data & Graphics" sheet. You can do it as any other excel sheets, or click on **"Data template"** in the *HELP*. The data structuration is quite simple : first row = hearder, second row = unit, thrid row = empty.
   - step 3 : retriver your data header. To do so, click on the **"Get column"** button
@@ -89,7 +87,7 @@ In additiona to this manual editing, you can modify several parameters for all g
 
 ## Ribbon options :
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/944da2fa-3ec7-4d66-8a02-6ef0174aa209)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/f5726fca-0615-4111-880f-b64a5a9e9882)
 
 This include different options to help you to handle your data, like :
   - clean all the *Data & Graphics* sheets
@@ -149,7 +147,8 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 ![graph XY - elispe](https://github.com/ADerycke/Series-Plotter/assets/130437433/cd408c8c-d0b4-4ba8-bb3a-8585cd32ee6d)
 
 **option 2 :** for binary diagram, multiple automatic grid are already ready to add to graph
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/50454a58-6944-4741-8c21-04db95056ee5)
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/b91ff562-7397-4a52-9709-012e1763ad97)
 
 ![graph XY - grid](https://github.com/ADerycke/Series-Plotter/assets/130437433/9b0c2ee8-5b1b-4162-a395-3155466ece9f)
 
@@ -167,7 +166,7 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 **note :** for ternary diagram, multiple automatic grid are already ready to add to graph
 
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/c98abc04-d290-48e3-b097-2f80aeef22c4)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/205e4690-c9d1-42fb-b799-24617903c992)
 
 
 ## graphic XY - stacked :
@@ -175,6 +174,9 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 ![graph stacked X](https://github.com/ADerycke/Series-Plotter/assets/130437433/1cdc605f-5fa7-43cc-b923-146d6e6907d0)
 ![graph stacked Y](https://github.com/ADerycke/Series-Plotter/assets/130437433/424ffc90-501b-4565-8f31-de4389a7a6bd)
 
+**note :** the scale change is done thanks to optional parameters
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/906d70f2-8ea0-4fa5-8598-abe21cf55598)
 
 ## Geological time scale :
 
@@ -182,7 +184,8 @@ If you select multiple cells, then it gonna automatically generate a color gradi
 
 **note :** this is a classical excel plot, so you can edit it (min, max, size...) as any other excel chart. By now the added Geological Time Scale correspond to the 2022. It was added using the work of [M. J. Williams](https://github.com/morganjwilliams/pyrolite.git). After generation, the graph will include the Period name (hidded in the picture above)
 
-You can select between different resolution and/or add any time scale using the button **"Add a time scale"** on the "Windows options". If you select a graph/chart before clicking on *Plot*, the time scale will replace the corresponding axes.
+You can select between different resolution and/or add any time scale using the button **"Add a time scale"** on the **"Other options"**. If you select a graph/chart before clicking on *Plot*, the time scale will replace the corresponding axes.
+
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/ab73f19b-0708-47fc-8c94-eaa1810ad092) 
 
 ![timescale 2](https://github.com/ADerycke/Series-Plotter/assets/130437433/8b4bc925-85f9-41dc-80b2-af5adbeca7fa)
@@ -196,7 +199,9 @@ You can select between different resolution and/or add any time scale using the 
 **note :** for spider diagram, an automatic normalisation is possible.
 This normalisation gonna be applied/remove to your data in fonction of what you want.
 The available normalisation can be found and selected on the "Normalisation" sheet that apprear after it selection.
-![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/044f0f23-3541-406e-b56b-fdb89edb459d)
+
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/1d9a28cf-283c-4c99-aca3-8910d5272610)
+
 
 ## regression and mobil average
 
@@ -205,6 +210,7 @@ The available normalisation can be found and selected on the "Normalisation" she
 ![moving average](https://github.com/ADerycke/Series-Plotter/assets/130437433/5090d6c0-4f29-4ecd-aee9-4c46ca08838e)
 
 **note :** you can add this to any series by rigth clicking on a serie :
+
 ![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/43b6ec6f-2a41-4186-bd73-0d9077dbb7f7)
 
 ## normal law and KDE calculation :
