@@ -1,4 +1,4 @@
-![header](https://github.com/ADerycke/Series-Plotter/assets/130437433/7bb306dd-409e-4777-9d38-bd698beeced4)
+![image](https://github.com/ADerycke/Series-Plotter/assets/130437433/8fd56d4c-5ae0-4608-8db9-9cde26a9addf)
 [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Series-Plotter/blob/main/README.fr.md)
 
 [**Click here to directly download the last version !**](https://github.com/ADerycke/Series-Plotter/raw/main/Series%20plotter%20(24m06a).xlsm)
