@@ -1,7 +1,9 @@
 ![header](https://github.com/ADerycke/Series-Plotter/assets/130437433/adff3a48-21ea-427e-aa40-11848ce527e7)
 [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Series-Plotter/blob/main/README.fr.md)
 
-[**Click here to directly download the last version !**](https://github.com/ADerycke/Series-Plotter/raw/main/Series%20plotter%20(24m06b).xlsm)
+[![download](https://github.com/ADerycke/Series-Plotter/assets/130437433/7c966fef-5f61-4dc1-857c-68fc7278e622)](https://github.com/ADerycke/Series-Plotter/raw/main/Series%20plotter%20(24m06b).xlsm)
+![vide](https://github.com/ADerycke/Series-Plotter/assets/130437433/d1137042-b4aa-42db-8cce-4b37fec25674)
+[![contact](https://github.com/ADerycke/Series-Plotter/assets/130437433/3447e54c-8eeb-4974-8bfa-7bb9b32e5ab2)](mailto:alexis.derycke@hotmail.com?subject=[SeriesPlotter]Subscribe/Issue/Request)
 
 # Series-Plotter : General introduction
 
