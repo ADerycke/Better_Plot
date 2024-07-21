@@ -6,13 +6,13 @@
 
 # Better Plot : General introduction
 
-This file ***Series plotter(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
+This file ***Better Plot(version).xlsm*** is simply made to accelerate significantly Excel chart production, and add other kind of chart not natively handle by Excel (e.g., ternary diagram, stacked "temporal" chart...).
 The file also include tools for geosciences like :
   - allowing to add grid for binary and ternary diagram, with a list of already implemented geochemical grids (cf. grid file).
   - allowing to automatically normalise geochemical data, with a list of already implemented geochemical normalisation (cf. normalisation file).
 
 It's never perfect so maybe you gonna encounter some troubles and errors, so don't hesitate to report me any problem.
-There is no restriction to use and distribute the "Series Plotter" files, as long as you refer this GitHub. 
+There is no restriction to use and distribute the "Better Plot" files, as long as you refer this GitHub. 
 
 *Excel version :*
   - should work on any version earlier than Excel 2016
@@ -48,9 +48,9 @@ You just have to download the file, opening it and allow the macro execution. To
 
 ![image](https://github.com/ADerycke/Better_Plot/assets/130437433/eb6d4f7c-8c7e-4607-9fbf-df08c61243ee)
 
-You also can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. Associate data examples are in the folder to easily test the series plotter and reproduce what its show in videos.
+You also can find several videos (~2min) in the helping folder that gonna introduce you to the file and show you quickly how to use it. Associate data examples are in the folder to easily test the Better Plot and reproduce what its show in videos.
 
-If you want to simply play with Series Plotter, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
+If you want to simply play with Better Plot, you can click on **"Data template"** in the ***HELP*** group and it gonna automatically add a dataset to play with.
 
 ## ![image](https://github.com/ADerycke/Better_Plot/assets/130437433/f8864374-40ed-4934-970f-d188de367301) Plot from selections 
   - step 1 : open the file and **allow macro execution**
