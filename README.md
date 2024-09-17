@@ -1,8 +1,8 @@
 ![header](https://github.com/ADerycke/Better_Plot/assets/130437433/adff3a48-21ea-427e-aa40-11848ce527e7)
 [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Better_Plot/blob/main/README.fr.md)
 
-[![image](https://github.com/ADerycke/Better_Plot/assets/130437433/1f530ac0-5de5-471f-b276-b9f7e367b62a)](https://github.com/ADerycke/Better_Plot/raw/main/Series%20plotter%20(24m06b)ThermoNET.xlsm)
-[![image](https://github.com/ADerycke/Better_Plot/assets/130437433/a2b707d3-615c-4a0c-a727-10602f4e168b)](mailto:alexis.derycke@hotmail.com?subject=[SeriesPlotter]Subscribe/Issue/Request)
+**IMPORTANT : AFTER SEPTEMBER 2024, THE OFFICIAL HELPS / SUPPORT and DOWNLOAD HAVE BEEN MOVE TO THE WEBSITE :**
+https://deryckehub.ovh/index.php/better-plot/
 
 # Better Plot : General introduction
 
