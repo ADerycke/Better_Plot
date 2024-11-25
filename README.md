@@ -2,7 +2,7 @@
 [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/ADerycke/Better_Plot/blob/main/README.fr.md)
 
 **IMPORTANT : AFTER SEPTEMBER 2024, THE OFFICIAL HELPS / SUPPORT and DOWNLOAD HAVE BEEN MOVE TO THE WEBSITE :**
-https://deryckehub.ovh/index.php/better-plot/
+[DeryckeHub](https://deryckehub.ovh/en/better-plot-excel/)
 
 # Better Plot : General introduction
 
